@@ -14,7 +14,7 @@ const perguntas = [
 
          },
          {
-            texto: "Desmatamento, poluição de rios, mares e florestas."
+            texto: "Desmatamento, poluição de rios, mares e florestas.",
            afirmacao: "sabe sobre o assunto "
          }
       ]
@@ -24,10 +24,10 @@ const perguntas = [
       alternativas: [
          {
             texto: "Produtos que se decompoẽ facilmente composto por material sintetico ",
-            afirmacao "sabe sobre o assunto e se preocupa com o meio ambiente"
+            afirmacao:"sabe sobre o assunto e se preocupa com o meio ambiente"
       },
          {
-            texto: "Produtos que se decompoẽ facilmente compostos por elementos orgãnicos ."
+            texto: "Produtos que se decompoẽ facilmente compostos por elementos orgãnicos .",
             afirmacao: "quer saber mais sobre e como funciona"
          }
 
@@ -41,7 +41,7 @@ const perguntas = [
             afirmacao: " se procupam e querem o melhor para o meio ambiental "
          },
          {
-            texto: " Marcas que criam uma falsa aparência de sustentabilidade"
+            texto: " Marcas que criam uma falsa aparência de sustentabilidade",
             afirmacao: "empresas que não se importa com o meio ambiente"
          }
 
@@ -56,7 +56,7 @@ const perguntas = [
             afirmacao: "isso é o que muitos dizem "
          },
          {
-            texto: " Termo que se refer exclusivamente a preservação ambiental"
+            texto: " Termo que se refer exclusivamente a preservação ambiental",
             afirmacao: "referce que o meio ambiente impota "
          },
       ]
@@ -69,7 +69,7 @@ const perguntas = [
             afirmacao: "isso é incrivel"
          },
          {
-            texto: "China "
+            texto: "China ",
             afirmacao: "isso é assustador"
          }
       ]
